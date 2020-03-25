@@ -83,7 +83,7 @@ defaults:
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: UA-161796753-1
 
-# environment: production
+environment: production
 
 minima:
   date_format: "%b %-d, %Y"
