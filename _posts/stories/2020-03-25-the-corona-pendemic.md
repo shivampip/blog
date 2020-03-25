@@ -20,5 +20,8 @@ print_hi('Shivam')
 ## Google Analytics Added
 
 ... which is shown in the screenshot below:
-![My helpful screenshot](/assets/images/shivam.jpg)
+
+![My helpful screenshot](/blog/assets/images/lti_logo.png)
 ![My helpful screenshot](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+... you can [get the PDF](/blog/assets/UOM.pdf) directly.
