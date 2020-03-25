@@ -1,5 +1,6 @@
 ---
 title: "Corona: The Pendemic"
+parmalink: "corona"
 ---
 
 ## Hello World
