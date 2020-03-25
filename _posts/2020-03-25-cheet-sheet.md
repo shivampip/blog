@@ -3,6 +3,8 @@ title: "Cheetsheet"
 permalink: "/cs"
 ---
 
+![image-title-here](/blog/assets/images/github_banner.PNG){:class="img-responsive"}
+
 Dolore in mollit magna veniam adipisicing ex amet laboris amet. Do nulla amet ipsum amet sint commodo quis tempor fugiat. Pariatur quis voluptate nulla enim. Non non esse consectetur pariatur reprehenderit. Anim Lorem aute dolor tempor.
 
 ## This is Heading 2
@@ -16,7 +18,13 @@ Amet velit ad laborum dolor. Aute elit proident reprehenderit eu ullamco elit ut
 Ullamco ex irure adipisicing enim id consectetur. Dolore irure aliqua do consequat irure quis do nisi deserunt ea in occaecat fugiat. Enim est aliqua culpa fugiat consequat ea cupidatat. Ea ipsum quis dolor labore enim. Adipisicing anim ipsum sunt ad. Occaecat ipsum magna consequat tempor et magna ex commodo ex dolor fugiat consequat aliqua officia. Enim aliquip laborum voluptate nulla anim dolore deserunt aliquip excepteur pariatur id.
 
 ![image-title-here](/blog/assets/images/shivam.jpg){:class="img-responsive"}
-![image-title-here](/blog/assets/images/github_banner.PNG){:class="img-responsive"}
+
+### Responsive YouTube Video
+
+Use **[this](https://embedresponsively.com/)** site to generate responsive YouTube video. <https://embedresponsively.com/>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ZnuwB35GYMY' frameborder='0' allowfullscreen></iframe></div>
+
 
 ### This is also Heading 3
 
@@ -165,13 +173,3 @@ Wow, YouTube Vide
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/24tQRwIRP_w/0.jpg)](http://www.youtube.com/watch?v=24tQRwIRP_w)
 
-
-Now Image
-
-### Embeded YouTube Video
-
-Sint proident enim est id est consequat aliqua est nisi in ad veniam reprehenderit pariatur. Duis fugiat nostrud incididunt et aute. Eu et sunt et sunt elit minim do veniam exercitation aliquip anim commodo tempor. Lorem Lorem esse cillum incididunt aute commodo laborum labore anim deserunt non nulla adipisicing eu. Laboris nulla sint minim enim excepteur est consectetur velit veniam fugiat. Aliqua eiusmod sint aute do.
-
----
-
-<iframe width="740" height="416" src="https://www.youtube.com/embed/ZnuwB35GYMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
