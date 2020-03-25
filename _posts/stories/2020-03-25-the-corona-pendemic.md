@@ -56,13 +56,29 @@ Just write it donw on a paper (paper/digital)
 
 ### Learn to play that music instrument
 
-If you have a music instrument, don't just learn it but master it.
+If you have a music instrument, don't just learn it but master it. you have enough time.
 if you don't have one, you can skip it. :)
 
 
-### Create a shot film with your mobile
+### Start a new habit
+
+It takes 21 days to form a habit. Congratulations, you have the time. 
+Decide a good habit like meditation, exercise, reading book, healthy diet or any other good habit.
+
+And start developing it day-by-day. 
+by the time lockdown will end, you'll have a good new habit.
+
+#### Note: 
+* Some good habits are automatically building like cleaning hands, hygiene
+* Some bad habits are automatically stopping like smoking etc due to home qurantine :)
 
 
+### Read a book
+
+You always wanted to read that book but you couldn't give enough time.
+
+But now since you are home qurantine, you have a lot of time. Start reading a book. 
+> That's the thing about books. They let you travel without moving your feet.
 
 
 ### Write a blog
@@ -79,10 +95,18 @@ Start writing a blog.
 Same things you do on blog plus some additional things you can do here.
 
 
-### Sing with karaoke
+### Record your first song
 
 You are a bathroom singer. or you murmur a song or just music excites you. You always wanted to sing but backgournd music was missing or some you didn't have proper time to do it.
 
 Now you have time as well as audience (your family).
 Record a song and share on social media.
 Let your circle know about the musician you have.
+
+### Have tea & talk with family
+
+No matter what you are, what your position is, at this time, you must be at your home with your loved ones. This difficult time has brought you together with your family. I know, you are already discussing about corona virus with them a lot. 
+
+Sit with them, have sips of tea. It will put a smile on your face and will give you happy memories.
+
+read [my quora answer](https://qr.ae/pNvnU3) about power of having tea with your loved ones.
