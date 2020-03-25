@@ -28,6 +28,9 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 # url: "http://shivampip.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shivampip
 github_username:  shivampip
+stackoverflow_username: '6759926'
+facebook_username: shivampip
+instagram_username: shivampip
 
 # Build settings
 theme: minima
@@ -63,3 +66,17 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Add your Google Analytics ID here if you have one and want to use it
+google_analytics: UA-161796753-1
+
+environment: production
+
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: shivampip
+    github: shivampip
+    stackoverflow: "6759926"
+    facebook: shivampip
+    instagram: shivampip
