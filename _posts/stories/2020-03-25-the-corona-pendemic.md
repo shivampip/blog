@@ -1,6 +1,6 @@
 ---
 title: "Corona: The Pendemic"
-parmalink: "corona"
+permalink: "/corona"
 ---
 
 ## Hello World
@@ -18,3 +18,7 @@ print_hi('Shivam')
 {% endhighlight %}
 
 ## Google Analytics Added
+
+... which is shown in the screenshot below:
+![My helpful screenshot](/assets/images/shivam.jpg)
+![My helpful screenshot](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)

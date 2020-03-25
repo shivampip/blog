@@ -37,6 +37,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/images
+  compress:
+    js:
+    css:
+  cachebust: hard
+  gzip: [ text/css, application/javascript ]
+
 defaults:
   -
     scope:
