@@ -1,6 +1,6 @@
 ---
 title: "Get Productive In Home Quarantine"
-permalink: "/corona"
+permalink: "/hq"
 ---
 
 ![image-title-here](/blog/assets/images/HomeQurantine.PNG){:class="img-responsive"}
@@ -165,10 +165,10 @@ No matter what you are, what your position is, at this time, you must be at your
 
 Sit with them, have sips of tea. It will put a smile on your face and will give you happy memories.
 
-read [my quora answer](https://qr.ae/pNvnU3){:target="_blank"} about power of having tea with your loved ones.
+read [my quora answer](https://www.quora.com/What-can-I-do-for-10-minutes-every-day-that-will-change-my-life/answer/Shivam-Agrawal-152?ch=10&share=6367450c&srid=ut1kf5){:target="_blank"} about power of having tea with your loved ones.
 
 ![image-title-here](/blog/assets/images/stay-home-stay-safe.jpg){:class="img-responsive"}
-<div style="color: gray; font-size: 1rem; float: right;">Designed by <a href="https://www.instagram.com/ayushidesigner/">Ayushi Agrawal</a></div>
+<div style="color: gray; font-size: .9rem; float: right;">Designed by <a href="https://www.instagram.com/ayushidesigner/">Ayushi Agrawal</a></div>
 
 <br><br>
 <style>
@@ -194,14 +194,12 @@ read [my quora answer](https://qr.ae/pNvnU3){:target="_blank"} about power of ha
 <div class="share-page">
     Share this on &rarr;
     <a href="whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
-*Stay Home, Stay Safe*
-
-https://shivampip.github.io/blog/corona" data-action="share/whatsapp/share" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
-    <a href="whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
 *Stay Home, Stay Safe* 
-https://shivampip.github.io/blog/corona" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+
+https://shivampip.github.io/blog/hq" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
+    <a href="https://twitter.com/intent/tweet?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
+Stay Home, Stay Safe https://shivampip.github.io/blog/hq&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+    <a href="https://facebook.com/sharer.php?u=https://shivampip.github.io/blog/hq" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
 </div>
 
 
