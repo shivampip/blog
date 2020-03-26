@@ -12,9 +12,6 @@ Most of the cities if not countries are locked down. In India alone **1.3 billio
 
 I'll tell you 11 productive and fun things you can do in your free time in quarantine. You can pick things based on your interests.
 
-Remember, the best thing you can do to beat this virus is to do social distancing and staying at home.
-
-_**This war can be fought by staying at home**_
 
 ## Let's Start
 
@@ -166,6 +163,12 @@ But at this time, no matter what, you must be at home with your loved ones. This
 
 I had written a [quora answer](https://www.quora.com/What-can-I-do-for-10-minutes-every-day-that-will-change-my-life/answer/Shivam-Agrawal-152?ch=10&share=6367450c&srid=ut1kf5){:target="_blank"} about power of spending time with loved ones.
 Sit with family, have sips of tea. It will put a smile on everyone's face and will give you happy memories.
+
+### At Last...
+
+Remember, the best thing you can do to beat this virus is to do social distancing and staying at home.
+
+>This war can be fought by staying at home
 
 ![image-title-here](/blog/assets/images/stay-home-stay-safe.jpg){:class="img-responsive"}
 <div style="color: gray; font-size: .9rem; float: right;">Illustration designed by <a href="https://www.instagram.com/ayushidesigner/">Ayushi Agrawal</a></div>
