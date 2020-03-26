@@ -196,20 +196,13 @@ Remember, the best thing you can do to beat this virus is to do social distancin
 </style>
 <div class="share-page">
     If you find this blog interesting, share it on &rarr;
-    <a href="whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
+    <a href="whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive and fun things. and 
 *Stay Home, Stay Safe* 
 
 https://shivampip.github.io/blog/hq" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
-    <a href="https://twitter.com/intent/tweet?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
+    <a href="https://twitter.com/intent/tweet?text=Getting bored in Home Qurantine. Do these 11 productive and fun things. and 
 Stay Home, Stay Safe https://shivampip.github.io/blog/hq&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
     <a href="https://facebook.com/sharer.php?u=https://shivampip.github.io/blog/hq" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
 </div>
 
 
-
-<!-- whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
-**Stay Home, Stay Safe**
-
-https://shivampip.github.io/blog/corona
-
-https://www.google.com/search?q=whatsapp%3A%2F%2Fsend%3Ftext%3DGetting+bored+in+Home+Qurantine.+Do+these+11+productive+things.+and+**Stay+Home%2C+Stay+Safe**+https%3A%2F%2Fshivampip.github.io%2Fblog%2Fcorona -->
