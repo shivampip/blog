@@ -193,7 +193,10 @@ read [my quora answer](https://qr.ae/pNvnU3){:target="_blank"} about power of ha
 </style>
 <div class="share-page">
     Share this on &rarr;
-    <a href="https://www.google.com/search?q=whatsapp%3A%2F%2Fsend%3Ftext%3DGetting+bored+in+Home+Qurantine.+Do+these+11+productive+things.+and+**Stay+Home%2C+Stay+Safe**+https%3A%2F%2Fshivampip.github.io%2Fblog%2Fcorona)" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
+    <a href="whatsapp%3A%2F%2Fsend%3Ftext%3DGetting+bored+in+Home+Qurantine.+Do+these+11+productive+things.+and+**Stay+Home%2C+Stay+Safe**+https%3A%2F%2Fshivampip.github.io%2Fblog%2Fcorona)" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
+    <a href="whatsapp://send?text=Getting bored in Home Qurantine. Do these 11 productive things. and 
+**Stay Home, Stay Safe**
+https://shivampip.github.io/blog/corona" rel="nofollow" target="_blank" title="Share on Whatsapp">Whatsapp</a>
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
     <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
 </div>
